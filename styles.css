@@ -1,0 +1,55 @@
+.h3 {
+    margin: 5px;
+}
+
+.span {
+    font-weight: bold;
+    font-size: 10pt;
+    padding-bottom: 0%;
+}
+
+.myimage {
+    width: 300px;
+    height: 200px;
+    margin: 5px 5px 5px 5px;
+}
+
+.p1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 10pt;
+    margin: 5px 5px 5px 5px;
+}
+
+.p2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 9pt;
+    margin: 5px 5px 5px 5px;
+}
+
+.div1 {
+    border: 1pt solid rgb(173, 173, 173);
+    width: 300px;
+    height: 200px;
+    margin: 5px 5px 5px 5px;
+}
+
+.body {
+    border: 1pt solid rgb(173, 173, 173);
+    box-shadow: 2px 2px rgb(173, 173, 173);
+    width: 310px;
+    height: 460px;
+    padding: 5px 5px 5px 5px;
+}
+
+.li {
+    list-style: none;
+    font-size: 10pt;
+
+}
+
+.ul {
+    padding-left: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
